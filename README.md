@@ -8,7 +8,7 @@ A lightweight, external memory manipulation tool written in Python using `pymem`
 ![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
 
-## ✨ Features(More feature coming soon...)
+## ✨ Features(More features coming soon...)
 
 * **RCS (Recoil Control System):** Standalone recoil compensation based on view angles.
 * **NoFlash:** Instantly removes flashbang blindness.
